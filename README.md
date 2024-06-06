@@ -1,4 +1,6 @@
 # ModeladosBlender
+![Readme Image](https://github.com/RobertoYorio/ModeladosBlender/blob/main/TownHall.PNG)
+
 Hace unos años quería hacer un juego, pero no sabía programar, así que decidí aventurarme en el modelado con Blender. He creado un mapa y varios elementos low poly para poblarlo, como árboles, arbustos, rocas, cactus y pasto. También creé un personaje, "Collector", y lo animé con varias acciones: correr, caminar, respirar, talar y picar.
 
 Además, diseñé algunos edificios para interactuar con ellos en el juego, como el cuartel (barrack), la granja, la mina y el ayuntamiento (townhall). Al finalizar, aprendí sobre modelado con y sin la técnica de sculpting, texturización, skinning (etapa donde se reduce la cantidad de vértices a un modelo hecho con sculpting), rigging y animación.
